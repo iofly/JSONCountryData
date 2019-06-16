@@ -4,6 +4,7 @@ This project is a collection of some useful country data in JSON format for you 
 
 ## Data Fields (Some text borrowed from Wikipedia)
 1. CountryName: Name of the country or territory.
+1. FlagDataURL: Base64 encoded 48px wide PNG flag of the nation/territory.
 1. ISO3166_1_Numeric: ISO3166-1 numeric code. String format as it may contain leading zeroes.
 1. ISO3166_1_Alpha3: ISO3166-1 3-character country code.
 1. ISO3166_1_Alpha2: ISO3166-1 2-character country code.
